@@ -25,8 +25,9 @@
           </a>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="/golds">ราคาทองวันนี้</a></li>
-            <li><a class="dropdown-item" href="#">Another action</a></li>
-            <li><a class="dropdown-item" href="#">Something else here</a></li>
+            <li><a class="dropdown-item" href="/product_api">สินค้า</a></li>
+            <li><a class="dropdown-item" href="/products_table">แสดงสินค้าทั้งหมด</a></li>
+            <li><a class="dropdown-item" href="/users">แสดงผู้ใช้ทั้งหมด</a></li>
           </ul>
         </li>
       </ul>
